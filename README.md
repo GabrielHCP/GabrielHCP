@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Pires
 
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje trabalho com desenvolvimento web
 - 🌱 Estudando PHP
 
 <div style="display: inline_block"><br>

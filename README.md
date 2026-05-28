@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Pires 👋
+## Olá! Eu sou o Gabriel Camargo 👋
 
 Desenvolvedor PHP com foco em sistemas legados, integrações fiscais brasileiras e automação de processos. Trabalho com desenvolvimento web desde os bastidores — do servidor ao banco de dados.
 
